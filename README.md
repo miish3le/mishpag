@@ -1,18 +1,18 @@
-# Hi, I'm Michelle—@mishpag
+# Hi, I'm Michelle—@mish3l
 
-Experienced in the public and nonprofit sectors, specializing in proposal development, policy analysis, and program improvement. Committed to using analytical skills to support data-driven decision-making and improve program effectiveness. My background in project management, data analytics, and grants development enables me to leverage expertise and deliver actionable insights that drive problem-solving and enhance organizational outcomes.
+Experienced fundraising professional, specializing in grant development and strategic operations. Committed to using analytical and data skills to support data-driven decision-making to improve program and funding effectiveness.
 
-Currently, I’m building expertise on the intersection of technology and policy, with a growing interest in data ethics, AI integration, and tech policy frameworks that address social impact. 
+Currently, I’m building expertise on the intersection of technology and philanthropy, with a growing interest in tech and AI frameworks that address social impact. 
 
-Software: Microsoft Excel, Tableau (data visualization), MySQL (database management), Microsoft PowerPoint, Student Information Systems (SIS tool). 
+Software: Microsoft Excel, Tableau, Power Bi, MySQL. 
 
-Data Methods: Statistical methods, data cleaning, data discovery, data exploration, data modeling, data storytelling, hypothesis testing, data validation, compliance reports. 
+Data Methods: Data cleaning, data discovery, data exploration, data storytelling. 
 
 Additional Skills: Project management, policy analysis, stakeholder engagement, student reporting & tracking, grant development, proposal writing, federal grant regulations, report preparation.
 
 ## More about me:
 
-- LinkedIn: www.linkedin.com/in/michellepaguada. 
+- LinkedIn: www.linkedin.com/in/michellegrantdev. 
 - How I work: lead with curiosity, always willing to learn, and create checklists!
-- Interest in tech policy. 
+- Interest in philanthropy and tech. 
 
