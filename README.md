@@ -1,4 +1,4 @@
-# Hi, I'm Michelle—@mish3l
+# Hi, I'm Michelle—@miish3le
 
 Experienced fundraising professional, specializing in grant development and strategic operations. Committed to using analytical and data skills to support data-driven decision-making to improve program and funding effectiveness.
 
